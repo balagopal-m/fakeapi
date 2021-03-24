@@ -1,9 +1,4 @@
 {
-  "type": "final",
-  "ts": 3.56,
-  "end_ts": 7.03,
-  "elements": [
-    {
       "type": "text",
       "value": "Five",
       "ts": 4.04,
@@ -25,5 +20,3 @@
       "type": "punct",
       "value": ".",
     }
-  ]
-}
