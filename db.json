@@ -1,22 +1,23 @@
-{
-      "type": "text",
-      "value": "Five",
-      "ts": 4.04,
-      "end_ts": 4.45,
-      "confidence": 1.0
-    },
-    {
-      "type": "punct",
-      "value": " ",
-    },
-    {
-      "type": "text",
-      "value": "six",
-      "ts": 5.14,
-      "end_ts": 6.23,
-      "confidence": 1.0
-    },
-    {
-      "type": "punct",
-      "value": ".",
-    }
+[
+  {
+    "confidence": 1,
+    "end_ts": 4.45,
+    "ts": 4.04,
+    "type": "text",
+    "value": "Five"
+  },
+  {
+    "confidence": 1,
+    "end_ts": 4.45,
+    "ts": 4.04,
+    "type": "text",
+    "value": "Five"
+  },
+  {
+    "confidence": 1,
+    "end_ts": 4.45,
+    "ts": 4.04,
+    "type": "text",
+    "value": "Five"
+  }
+]
