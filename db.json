@@ -1,0 +1,29 @@
+{
+  "type": "final",
+  "ts": 3.56,
+  "end_ts": 7.03,
+  "elements": [
+    {
+      "type": "text",
+      "value": "Five",
+      "ts": 4.04,
+      "end_ts": 4.45,
+      "confidence": 1.0
+    },
+    {
+      "type": "punct",
+      "value": " ",
+    },
+    {
+      "type": "text",
+      "value": "six",
+      "ts": 5.14,
+      "end_ts": 6.23,
+      "confidence": 1.0
+    },
+    {
+      "type": "punct",
+      "value": ".",
+    }
+  ]
+}
